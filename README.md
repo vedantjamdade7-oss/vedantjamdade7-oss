@@ -7,7 +7,7 @@ I am passionate about working with data and finding insights using Python, SQL, 
 
 ---
 
-## Skills
+## Skill
 
 - Python
 - SQL
