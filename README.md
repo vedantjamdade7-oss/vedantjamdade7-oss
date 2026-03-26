@@ -1,7 +1,7 @@
 # Hi, I'm Vedant Jamdade 👋
 
 🎓 B.Tech Student  
-📊 Aspiring Data Analyst  
+📊 Aspiring Data Analyst
 
 I am passionate about working with data and finding insights using Python, SQL, and data visualization tools.
 
