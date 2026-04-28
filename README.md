@@ -1,4 +1,4 @@
-# Hi, I'm Vedant Jamdade 
+# Hi, I'm Vedant Jamdad
 
 🎓 B.Tech Student  
 📊 Aspiring Data Analyst
