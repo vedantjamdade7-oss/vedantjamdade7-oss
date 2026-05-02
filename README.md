@@ -29,7 +29,6 @@ I am passionate about working with data and finding insights using Python, SQL, 
 ## Currently Learning
 
 - Data Analysis with Python
-- SQL 
 - Power BI
 
 ---
