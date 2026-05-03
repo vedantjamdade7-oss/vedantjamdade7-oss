@@ -17,7 +17,7 @@ I am passionate about working with data and finding insights using Python, SQL, 
 
 ---
 
-## Tools I Us
+## Tools I Use
 
 - Python (Pandas, NumPy, Matplotlib)
 - Jupyter Notebook
