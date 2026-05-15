@@ -39,6 +39,6 @@ To become a Data Analyst and work with real-world data to solve business problem
 
 ---
 
-⭐ Check out my repositories to see my projects.
+
 
 
